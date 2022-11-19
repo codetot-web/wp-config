@@ -41,13 +41,13 @@ define( 'DISABLE_WP_CRON', true );
 ```php
 define( 'WP_MEMORY_LIMIT', '96M' );
 define( 'WP_MAX_MEMORY_LIMIT', '128M' );
-``
+```
 
 **Limit trash auto clean**
 
 ```php
 define( 'EMPTY_TRASH_DAYS', 3 ); // days
-``
+```
 
 **Disable all automatic updates**
 
